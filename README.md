@@ -1,4 +1,4 @@
-# Management System
+# Gym Management System
 A comprehensive gym management system developed to streamline the management of gym operations, including member registration, class scheduling, and payment processing.
 
 Features
